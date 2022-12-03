@@ -14,8 +14,8 @@ fn main() {
                 )
                 .intersection(&H::from_iter(x[2].chars()))
                 .next()
-                .unwrap() as u8;
-                a + if f > 97 { f - 96 } else { f - 38 } as u64
+                .unwrap() as u64;
+                a + if f > 97 { f - 96 } else { f - 38 }
             })
     );
 }

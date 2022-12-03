@@ -20,5 +20,5 @@
 ```
 [user@linux aoc_2022]$ wc -c day_3_2.rs
 
-356 day_3_2.rs
+351 day_3_2.rs
 ```
