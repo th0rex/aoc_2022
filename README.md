@@ -22,3 +22,10 @@
 
 351 day_3_2.rs
 ```
+
+- Day 5:
+```
+[user@linux aoc_2022]$ wc -c day_5_2.rs
+
+521 day_5_2.rs
+```
